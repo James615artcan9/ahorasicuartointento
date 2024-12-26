@@ -1,20 +1,17 @@
-[26Dec2024 20:44:11.816] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
-[26Dec2024 20:44:11.820] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[26Dec2024 20:44:12.138] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ahorasicuartointento/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[26Dec2024 20:44:12.454] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[26Dec2024 20:44:12.456] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[26Dec2024 20:44:12.459] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[26Dec2024 20:44:12.460] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[26Dec2024 20:44:12.590] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[26Dec2024 20:44:14.175] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[26Dec2024 20:44:14.253] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[26Dec2024 20:44:14.290] [main/WARN] [mixin/]: Reference map 'ambientsounds.mixins.refmap.json' for ambientsounds.mixins.json could not be read. If this is a development environment you can ignore this message
-[26Dec2024 20:44:19.437] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[26Dec2024 20:44:21.373] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[26Dec2024 20:44:21.374] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[26Dec2024 20:44:21.409] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[26Dec2024 20:44:21.593] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@65f651eb on thread Thread[#34,modloading-worker-0,5,main]
-[26Dec2024 20:44:21.594] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[26Dec2024 21:27:34.320] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[26Dec2024 21:27:34.324] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[26Dec2024 21:27:34.643] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ahorasicuartointento/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[26Dec2024 21:27:35.065] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[26Dec2024 21:27:35.067] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[26Dec2024 21:27:35.069] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[26Dec2024 21:27:35.071] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[26Dec2024 21:27:35.203] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[26Dec2024 21:27:36.850] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[26Dec2024 21:27:36.919] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[26Dec2024 21:27:36.964] [main/WARN] [mixin/]: Reference map 'ambientsounds.mixins.refmap.json' for ambientsounds.mixins.json could not be read. If this is a development environment you can ignore this message
+[26Dec2024 21:27:42.683] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[26Dec2024 21:27:44.949] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/renderer/entity/layers/RenderLayer for class com/obscuria/obscureapi/client/renderer/PatreonLayer in classloader cpw.mods.modlauncher.TransformingClassLoader@41853299 on thread Thread[#34,modloading-worker-0,5,main]
+[26Dec2024 21:27:44.951] [modloading-worker-0/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.RenderLayer
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
@@ -42,15 +39,15 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.lang.invoke.CallSite.makeSite(CallSite.java:316) ~[?:?]
 	at java.lang.invoke.MethodHandleNatives.linkCallSiteImpl(MethodHandleNatives.java:274) ~[?:?]
 	at java.lang.invoke.MethodHandleNatives.linkCallSite(MethodHandleNatives.java:264) ~[?:?]
-	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23134!/:15]
-	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:26) ~[obscure_api-15.jar%23134!/:15]
-	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:42) ~[obscure_api-15.jar%23134!/:15]
-	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:68) ~[obscure_api-15.jar%23134!/:15]
+	at com.obscuria.obscureapi.client.renderer.PatreonLayer$Mode.<clinit>(PatreonLayer.java:55) ~[obscure_api-15.jar%23153!/:15]
+	at com.obscuria.obscureapi.ObscureAPIConfig$Client.<clinit>(ObscureAPIConfig.java:26) ~[obscure_api-15.jar%23153!/:15]
+	at com.obscuria.obscureapi.ObscureAPIConfig.register(ObscureAPIConfig.java:42) ~[obscure_api-15.jar%23153!/:15]
+	at com.obscuria.obscureapi.ObscureAPI.<init>(ObscureAPI.java:68) ~[obscure_api-15.jar%23153!/:15]
 	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
 	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
 	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.19.2-43.4.2.jar%23141!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:122) ~[fmlcore-1.19.2-43.4.2.jar%23140!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.19.2-43.4.2.jar%23161!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:122) ~[fmlcore-1.19.2-43.4.2.jar%23160!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) [?:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) [?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) [?:?]
@@ -58,184 +55,461 @@ java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.Re
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[26Dec2024 20:44:21.600] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
-[26Dec2024 20:44:24.365] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[26Dec2024 20:44:24.470] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[26Dec2024 20:44:24.470] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[26Dec2024 20:44:24.470] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[26Dec2024 20:44:24.470] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[26Dec2024 20:44:24.471] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[26Dec2024 20:44:24.471] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[26Dec2024 20:44:24.471] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[26Dec2024 20:44:24.492] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 4 for type OVERWORLD
-[26Dec2024 20:44:24.663] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.12
-[26Dec2024 20:44:24.664] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
-[26Dec2024 20:44:24.725] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[26Dec2024 21:27:44.962] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/obscuria/obscureapi/client/renderer/PatreonLayer for invalid dist DEDICATED_SERVER
+[26Dec2024 21:27:45.117] [modloading-worker-0/INFO] [Dungeon Crawl/]: Here we go! Launching Dungeon Crawl 2.3.12...
+[26Dec2024 21:27:45.271] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[26Dec2024 21:27:45.513] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[26Dec2024 21:27:45.514] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[26Dec2024 21:27:48.438] [modloading-worker-0/INFO] [Dungeon Crawl/]: Common Setup
+[26Dec2024 21:27:48.440] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/ahorasicuartointento/servidor_minecraft/config/dungeon_crawl.toml is not correct. Correcting
+[26Dec2024 21:27:48.442] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[26Dec2024 21:27:48.442] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Settings.enable_tools was corrected from null to its default, false. 
+[26Dec2024 21:27:48.443] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Miscellaneous Settings.extended_debug was corrected from null to its default, true. 
+[26Dec2024 21:27:48.443] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key World Generation was corrected from null to its default, SimpleCommentedConfig:{}. 
+[26Dec2024 21:27:48.445] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key World Generation.bury was corrected from null to its default, false. 
+[26Dec2024 21:27:48.446] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key World Generation.solid was corrected from null to its default, false. 
+[26Dec2024 21:27:48.446] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key World Generation.tick_falling_blocks was corrected from null to its default, true. 
+[26Dec2024 21:27:48.447] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Placement was corrected from null to its default, SimpleCommentedConfig:{}. 
+[26Dec2024 21:27:48.448] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Placement.spacing was corrected from null to its default, 32. 
+[26Dec2024 21:27:48.448] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Placement.separation was corrected from null to its default, 12. 
+[26Dec2024 21:27:48.451] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[26Dec2024 21:27:48.451] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Settings.secret_rooms was corrected from null to its default, true. 
+[26Dec2024 21:27:48.452] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Settings.fixed_generation_height was corrected from null to its default, false. 
+[26Dec2024 21:27:48.453] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Settings.overwrite_entity_loot_tables was corrected from null to its default, true. 
+[26Dec2024 21:27:48.453] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Settings.no_nether_blocks was corrected from null to its default, false. 
+[26Dec2024 21:27:48.453] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Settings.spawner_activation_range was corrected from null to its default, 12. 
+[26Dec2024 21:27:48.454] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Settings.spawner_entities was corrected from null to its default, 6. 
+[26Dec2024 21:27:48.454] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Settings.custom_spawners was corrected from null to its default, true. 
+[26Dec2024 21:27:48.454] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dungeon Settings.natural_despawn was corrected from null to its default, true. 
+[26Dec2024 21:27:48.506] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models Initialized
+[26Dec2024 21:27:48.588] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[26Dec2024 21:27:48.588] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[26Dec2024 21:27:48.589] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[26Dec2024 21:27:48.589] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[26Dec2024 21:27:48.589] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[26Dec2024 21:27:48.590] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[26Dec2024 21:27:48.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Starting version check at https://www.dropbox.com/s/raw/q6ckhwos45jires/version-doggytalents.json
+[26Dec2024 21:27:48.590] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[26Dec2024 21:27:48.654] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 4 for type OVERWORLD
+[26Dec2024 21:27:48.669] [modloading-worker-0/INFO] [CPM/]: Customizable Player Models API initialized: Loaded plugins: (0)
+
+[26Dec2024 21:27:49.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [doggytalents] Found status: BETA Current: 2.6.10 Target: null
+[26Dec2024 21:27:49.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[26Dec2024 21:27:49.582] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23140!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23160!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23140!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23160!/:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[26Dec2024 20:44:24.727] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[26Dec2024 20:44:24.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.4 Target: null
-[26Dec2024 20:44:24.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
-[26Dec2024 20:44:24.963] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[26Dec2024 21:27:49.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[26Dec2024 21:27:49.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[26Dec2024 21:27:49.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Starting version check at https://raw.githubusercontent.com/tom5454/CustomPlayerModels/master/version-check.json
+[26Dec2024 21:27:49.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cpm] Found status: BETA Current: 0.6.19a Target: 0.6.19a
+[26Dec2024 21:27:49.849] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[26Dec2024 21:27:49.974] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.12
+[26Dec2024 21:27:49.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[26Dec2024 21:27:49.987] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23140!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.4.2.jar%23160!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23140!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.4.2.jar%23160!/:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
 	... 6 more
-[26Dec2024 20:44:24.964] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
-[26Dec2024 20:44:24.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.4.7 Target: null
-[26Dec2024 20:44:25.839] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[26Dec2024 20:44:26.656] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23139!/assets/.mcassetsroot' uses unexpected schema
-[26Dec2024 20:44:26.656] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23139!/data/.mcassetsroot' uses unexpected schema
-[26Dec2024 20:44:28.605] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[26Dec2024 20:44:29.437] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[26Dec2024 20:44:30.012] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1915 advancements
-[26Dec2024 20:44:30.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[26Dec2024 20:44:30.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[26Dec2024 20:44:30.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[26Dec2024 20:44:30.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[26Dec2024 20:44:30.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[26Dec2024 20:44:30.724] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[26Dec2024 20:44:30.817] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[26Dec2024 20:44:30.817] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[26Dec2024 20:44:30.818] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[26Dec2024 20:44:30.818] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[26Dec2024 20:44:31.112] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[26Dec2024 20:44:31.483] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[26Dec2024 20:44:31.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[26Dec2024 20:44:31.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[26Dec2024 20:44:36.266] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.271] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.273] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.274] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.278] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.281] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.282] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.283] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.286] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[26Dec2024 20:44:36.760] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
-[26Dec2024 20:44:37.278] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 67%
-[26Dec2024 20:44:37.459] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5700 ms
-[26Dec2024 20:44:37.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.631s)! For help, type "help"
-[26Dec2024 20:44:37.477] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[26Dec2024 20:44:37.532] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 19724 bytes (in 2 string chunks with the size of 10000)
-[26Dec2024 20:44:37.533] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[26Dec2024 20:44:52.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
-[26Dec2024 20:44:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
-[26Dec2024 20:44:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in)
-[26Dec2024 20:44:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
-[26Dec2024 20:44:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
-[26Dec2024 20:44:52.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone <begin> <end> <destination> [replace|masked|filtered]
-[26Dec2024 20:44:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
-[26Dec2024 20:44:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
-[26Dec2024 20:44:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
-[26Dec2024 20:44:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode (survival|creative|adventure|spectator)
-[26Dec2024 20:44:52.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
-[26Dec2024 20:44:52.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
-[26Dec2024 20:44:52.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
-[26Dec2024 20:44:52.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
-[26Dec2024 20:44:52.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
-[26Dec2024 20:44:52.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
-[26Dec2024 20:44:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
-[26Dec2024 20:44:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
-[26Dec2024 20:44:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
-[26Dec2024 20:44:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode (survival|creative|adventure|spectator)
-[26Dec2024 20:44:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks|universalAnger)
-[26Dec2024 20:44:52.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
-[26Dec2024 20:44:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
-[26Dec2024 20:44:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
-[26Dec2024 20:44:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
-[26Dec2024 20:44:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
-[26Dec2024 20:44:52.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
-[26Dec2024 20:44:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
-[26Dec2024 20:44:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
-[26Dec2024 20:44:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
-[26Dec2024 20:44:52.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
-[26Dec2024 20:44:52.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
-[26Dec2024 20:44:52.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
-[26Dec2024 20:44:52.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
-[26Dec2024 20:44:52.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
-[26Dec2024 20:44:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
-[26Dec2024 20:44:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
-[26Dec2024 20:44:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
-[26Dec2024 20:44:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
-[26Dec2024 20:44:52.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
-[26Dec2024 20:44:52.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
-[26Dec2024 20:44:52.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
-[26Dec2024 20:44:52.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
-[26Dec2024 20:44:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
-[26Dec2024 20:44:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
-[26Dec2024 20:44:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
-[26Dec2024 20:44:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
-[26Dec2024 20:44:52.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
-[26Dec2024 20:44:52.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
-[26Dec2024 20:44:52.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
-[26Dec2024 20:44:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
-[26Dec2024 20:44:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
-[26Dec2024 20:44:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
-[26Dec2024 20:44:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
-[26Dec2024 20:44:52.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
-[26Dec2024 20:44:52.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
-[26Dec2024 20:44:52.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
-[26Dec2024 20:44:52.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
-[26Dec2024 20:44:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
-[26Dec2024 20:44:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
-[26Dec2024 20:44:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
-[26Dec2024 20:44:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
-[26Dec2024 20:44:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
-[26Dec2024 20:44:52.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
-[26Dec2024 20:44:52.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
-[26Dec2024 20:44:52.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
-[26Dec2024 20:44:52.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
-[26Dec2024 20:44:52.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
-[26Dec2024 20:44:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
-[26Dec2024 20:44:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
-[26Dec2024 20:44:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
-[26Dec2024 20:44:52.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
-[26Dec2024 20:44:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
-[26Dec2024 20:44:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
-[26Dec2024 20:44:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
-[26Dec2024 20:44:52.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
-[26Dec2024 20:44:52.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
-[26Dec2024 20:44:52.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
-[26Dec2024 20:44:52.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /obscure (reload|assign)
-[26Dec2024 20:44:52.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-reset [<targets>]
-[26Dec2024 20:44:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-data dump augment-compatibility-csv
-[26Dec2024 20:44:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-pathing
-[26Dec2024 20:44:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-light (on|off)
-[26Dec2024 20:44:52.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-tome <tome>
-[26Dec2024 20:44:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ars-skull <player_name> <duration> <nbt> <dropBlock>
-[26Dec2024 20:44:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /open-patchouli-book <targets> <book> [<entry>]
-[26Dec2024 20:44:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
-[26Dec2024 20:46:36.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[26Dec2024 20:46:36.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[26Dec2024 20:46:36.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[26Dec2024 20:46:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[26Dec2024 20:46:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[26Dec2024 20:46:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[26Dec2024 20:46:38.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[26Dec2024 20:46:38.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[26Dec2024 20:46:38.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[26Dec2024 20:46:38.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Dec2024 21:27:49.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[26Dec2024 21:27:50.018] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.4.7 Target: null
+[26Dec2024 21:27:50.137] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[26Dec2024 21:27:50.301] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: doggytalents:dog_bed Expected: 1265 Got: 1478
+[26Dec2024 21:27:50.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: doggytalents:dog_bath Expected: 1266 Got: 1479
+[26Dec2024 21:27:50.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: doggytalents:food_bowl Expected: 1267 Got: 1480
+[26Dec2024 21:27:50.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: dynamiclights:lit_air Expected: 1268 Got: 1481
+[26Dec2024 21:27:50.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: dynamiclights:lit_water Expected: 1269 Got: 1482
+[26Dec2024 21:27:50.302] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: dynamiclights:lit_cave_air Expected: 1270 Got: 1483
+[26Dec2024 21:27:50.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass Expected: 1294 Got: 1484
+[26Dec2024 21:27:50.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_pane Expected: 1295 Got: 1485
+[26Dec2024 21:27:50.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_white Expected: 1296 Got: 1486
+[26Dec2024 21:27:50.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_white_pane Expected: 1297 Got: 1487
+[26Dec2024 21:27:50.303] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_orange Expected: 1298 Got: 1488
+[26Dec2024 21:27:50.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_orange_pane Expected: 1299 Got: 1489
+[26Dec2024 21:27:50.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_magenta Expected: 1300 Got: 1490
+[26Dec2024 21:27:50.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_magenta_pane Expected: 1301 Got: 1491
+[26Dec2024 21:27:50.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_light_blue Expected: 1302 Got: 1492
+[26Dec2024 21:27:50.304] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_light_blue_pane Expected: 1303 Got: 1493
+[26Dec2024 21:27:50.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_yellow Expected: 1304 Got: 1494
+[26Dec2024 21:27:50.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_yellow_pane Expected: 1305 Got: 1495
+[26Dec2024 21:27:50.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_lime Expected: 1306 Got: 1496
+[26Dec2024 21:27:50.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_lime_pane Expected: 1307 Got: 1497
+[26Dec2024 21:27:50.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_pink Expected: 1308 Got: 1498
+[26Dec2024 21:27:50.305] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_pink_pane Expected: 1309 Got: 1499
+[26Dec2024 21:27:50.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_gray Expected: 1310 Got: 1500
+[26Dec2024 21:27:50.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_gray_pane Expected: 1311 Got: 1501
+[26Dec2024 21:27:50.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_light_gray Expected: 1312 Got: 1502
+[26Dec2024 21:27:50.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_light_gray_pane Expected: 1313 Got: 1503
+[26Dec2024 21:27:50.306] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_cyan Expected: 1314 Got: 1504
+[26Dec2024 21:27:50.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_cyan_pane Expected: 1315 Got: 1505
+[26Dec2024 21:27:50.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_purple Expected: 1316 Got: 1506
+[26Dec2024 21:27:50.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_purple_pane Expected: 1317 Got: 1507
+[26Dec2024 21:27:50.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_blue Expected: 1318 Got: 1508
+[26Dec2024 21:27:50.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_blue_pane Expected: 1319 Got: 1509
+[26Dec2024 21:27:50.307] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_brown Expected: 1320 Got: 1510
+[26Dec2024 21:27:50.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_brown_pane Expected: 1321 Got: 1511
+[26Dec2024 21:27:50.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_green Expected: 1322 Got: 1512
+[26Dec2024 21:27:50.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_green_pane Expected: 1323 Got: 1513
+[26Dec2024 21:27:50.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_red Expected: 1324 Got: 1514
+[26Dec2024 21:27:50.308] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_red_pane Expected: 1325 Got: 1515
+[26Dec2024 21:27:50.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_black Expected: 1326 Got: 1516
+[26Dec2024 21:27:50.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:borderless_glass_black_pane Expected: 1327 Got: 1517
+[26Dec2024 21:27:50.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass Expected: 1328 Got: 1518
+[26Dec2024 21:27:50.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_pane Expected: 1329 Got: 1519
+[26Dec2024 21:27:50.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_white Expected: 1330 Got: 1520
+[26Dec2024 21:27:50.309] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_white_pane Expected: 1331 Got: 1521
+[26Dec2024 21:27:50.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_orange Expected: 1332 Got: 1522
+[26Dec2024 21:27:50.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_orange_pane Expected: 1333 Got: 1523
+[26Dec2024 21:27:50.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_magenta Expected: 1334 Got: 1524
+[26Dec2024 21:27:50.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_magenta_pane Expected: 1335 Got: 1525
+[26Dec2024 21:27:50.310] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_light_blue Expected: 1336 Got: 1526
+[26Dec2024 21:27:50.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_light_blue_pane Expected: 1337 Got: 1527
+[26Dec2024 21:27:50.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_yellow Expected: 1338 Got: 1528
+[26Dec2024 21:27:50.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_yellow_pane Expected: 1339 Got: 1529
+[26Dec2024 21:27:50.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_lime Expected: 1340 Got: 1530
+[26Dec2024 21:27:50.311] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_lime_pane Expected: 1341 Got: 1531
+[26Dec2024 21:27:50.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_pink Expected: 1342 Got: 1532
+[26Dec2024 21:27:50.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_pink_pane Expected: 1343 Got: 1533
+[26Dec2024 21:27:50.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_gray Expected: 1344 Got: 1534
+[26Dec2024 21:27:50.312] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_gray_pane Expected: 1345 Got: 1535
+[26Dec2024 21:27:50.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_light_gray Expected: 1346 Got: 1536
+[26Dec2024 21:27:50.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_light_gray_pane Expected: 1347 Got: 1537
+[26Dec2024 21:27:50.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_cyan Expected: 1348 Got: 1538
+[26Dec2024 21:27:50.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_cyan_pane Expected: 1349 Got: 1539
+[26Dec2024 21:27:50.313] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_purple Expected: 1350 Got: 1540
+[26Dec2024 21:27:50.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_purple_pane Expected: 1351 Got: 1541
+[26Dec2024 21:27:50.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_blue Expected: 1352 Got: 1542
+[26Dec2024 21:27:50.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_blue_pane Expected: 1353 Got: 1543
+[26Dec2024 21:27:50.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_brown Expected: 1354 Got: 1544
+[26Dec2024 21:27:50.314] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_brown_pane Expected: 1355 Got: 1545
+[26Dec2024 21:27:50.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_green Expected: 1356 Got: 1546
+[26Dec2024 21:27:50.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_green_pane Expected: 1357 Got: 1547
+[26Dec2024 21:27:50.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_red Expected: 1358 Got: 1548
+[26Dec2024 21:27:50.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_red_pane Expected: 1359 Got: 1549
+[26Dec2024 21:27:50.315] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_black Expected: 1360 Got: 1550
+[26Dec2024 21:27:50.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:clear_glass_black_pane Expected: 1361 Got: 1551
+[26Dec2024 21:27:50.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass Expected: 1362 Got: 1552
+[26Dec2024 21:27:50.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_pane Expected: 1363 Got: 1553
+[26Dec2024 21:27:50.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_white Expected: 1364 Got: 1554
+[26Dec2024 21:27:50.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_white_pane Expected: 1365 Got: 1555
+[26Dec2024 21:27:50.316] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_orange Expected: 1366 Got: 1556
+[26Dec2024 21:27:50.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_orange_pane Expected: 1367 Got: 1557
+[26Dec2024 21:27:50.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_magenta Expected: 1368 Got: 1558
+[26Dec2024 21:27:50.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_magenta_pane Expected: 1369 Got: 1559
+[26Dec2024 21:27:50.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_light_blue Expected: 1370 Got: 1560
+[26Dec2024 21:27:50.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_light_blue_pane Expected: 1371 Got: 1561
+[26Dec2024 21:27:50.317] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_yellow Expected: 1372 Got: 1562
+[26Dec2024 21:27:50.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_yellow_pane Expected: 1373 Got: 1563
+[26Dec2024 21:27:50.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_lime Expected: 1374 Got: 1564
+[26Dec2024 21:27:50.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_lime_pane Expected: 1375 Got: 1565
+[26Dec2024 21:27:50.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_pink Expected: 1376 Got: 1566
+[26Dec2024 21:27:50.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_pink_pane Expected: 1377 Got: 1567
+[26Dec2024 21:27:50.318] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_gray Expected: 1378 Got: 1568
+[26Dec2024 21:27:50.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_gray_pane Expected: 1379 Got: 1569
+[26Dec2024 21:27:50.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_light_gray Expected: 1380 Got: 1570
+[26Dec2024 21:27:50.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_light_gray_pane Expected: 1381 Got: 1571
+[26Dec2024 21:27:50.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_cyan Expected: 1382 Got: 1572
+[26Dec2024 21:27:50.319] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_cyan_pane Expected: 1383 Got: 1573
+[26Dec2024 21:27:50.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_purple Expected: 1384 Got: 1574
+[26Dec2024 21:27:50.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_purple_pane Expected: 1385 Got: 1575
+[26Dec2024 21:27:50.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_blue Expected: 1386 Got: 1576
+[26Dec2024 21:27:50.320] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_blue_pane Expected: 1387 Got: 1577
+[26Dec2024 21:27:50.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_brown Expected: 1388 Got: 1578
+[26Dec2024 21:27:50.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_brown_pane Expected: 1389 Got: 1579
+[26Dec2024 21:27:50.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_green Expected: 1390 Got: 1580
+[26Dec2024 21:27:50.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_green_pane Expected: 1391 Got: 1581
+[26Dec2024 21:27:50.321] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_red Expected: 1392 Got: 1582
+[26Dec2024 21:27:50.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_red_pane Expected: 1393 Got: 1583
+[26Dec2024 21:27:50.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_black Expected: 1394 Got: 1584
+[26Dec2024 21:27:50.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:scratched_glass_black_pane Expected: 1395 Got: 1585
+[26Dec2024 21:27:50.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass Expected: 1396 Got: 1586
+[26Dec2024 21:27:50.322] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_white Expected: 1397 Got: 1587
+[26Dec2024 21:27:50.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_orange Expected: 1398 Got: 1588
+[26Dec2024 21:27:50.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_magenta Expected: 1399 Got: 1589
+[26Dec2024 21:27:50.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_light_blue Expected: 1400 Got: 1590
+[26Dec2024 21:27:50.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_yellow Expected: 1401 Got: 1591
+[26Dec2024 21:27:50.323] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_lime Expected: 1402 Got: 1592
+[26Dec2024 21:27:50.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_pink Expected: 1403 Got: 1593
+[26Dec2024 21:27:50.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_gray Expected: 1404 Got: 1594
+[26Dec2024 21:27:50.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_light_gray Expected: 1405 Got: 1595
+[26Dec2024 21:27:50.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_cyan Expected: 1406 Got: 1596
+[26Dec2024 21:27:50.324] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_purple Expected: 1407 Got: 1597
+[26Dec2024 21:27:50.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_blue Expected: 1408 Got: 1598
+[26Dec2024 21:27:50.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_brown Expected: 1409 Got: 1599
+[26Dec2024 21:27:50.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_green Expected: 1410 Got: 1600
+[26Dec2024 21:27:50.325] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_red Expected: 1411 Got: 1601
+[26Dec2024 21:27:50.326] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_black Expected: 1412 Got: 1602
+[26Dec2024 21:27:50.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:throw_bone Expected: 1499 Got: 2361
+[26Dec2024 21:27:50.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:throw_bone_wet Expected: 1500 Got: 2362
+[26Dec2024 21:27:50.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:throw_stick Expected: 1501 Got: 2363
+[26Dec2024 21:27:50.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:throw_stick_wet Expected: 1502 Got: 2364
+[26Dec2024 21:27:50.328] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:training_treat Expected: 1503 Got: 2365
+[26Dec2024 21:27:50.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:super_treat Expected: 1504 Got: 2366
+[26Dec2024 21:27:50.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:master_treat Expected: 1505 Got: 2367
+[26Dec2024 21:27:50.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:dire_treat Expected: 1506 Got: 2368
+[26Dec2024 21:27:50.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:breeding_bone Expected: 1507 Got: 2369
+[26Dec2024 21:27:50.329] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:collar_shears Expected: 1508 Got: 2370
+[26Dec2024 21:27:50.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:doggy_charm Expected: 1509 Got: 2371
+[26Dec2024 21:27:50.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:radio_collar Expected: 1510 Got: 2372
+[26Dec2024 21:27:50.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:wool_collar Expected: 1511 Got: 2373
+[26Dec2024 21:27:50.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:creative_collar Expected: 1512 Got: 2374
+[26Dec2024 21:27:50.330] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:spotted_collar Expected: 1513 Got: 2375
+[26Dec2024 21:27:50.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:multicoloured_collar Expected: 1514 Got: 2376
+[26Dec2024 21:27:50.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:radar Expected: 1515 Got: 2377
+[26Dec2024 21:27:50.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:creative_radar Expected: 1516 Got: 2378
+[26Dec2024 21:27:50.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:whistle Expected: 1517 Got: 2379
+[26Dec2024 21:27:50.331] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:treat_bag Expected: 1518 Got: 2380
+[26Dec2024 21:27:50.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:chew_stick Expected: 1519 Got: 2381
+[26Dec2024 21:27:50.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:cape Expected: 1520 Got: 2382
+[26Dec2024 21:27:50.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:cape_coloured Expected: 1521 Got: 2383
+[26Dec2024 21:27:50.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:sunglasses Expected: 1522 Got: 2384
+[26Dec2024 21:27:50.332] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:guard_suit Expected: 1523 Got: 2385
+[26Dec2024 21:27:50.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:leather_jacket Expected: 1524 Got: 2386
+[26Dec2024 21:27:50.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:tiny_bone Expected: 1525 Got: 2387
+[26Dec2024 21:27:50.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:big_bone Expected: 1526 Got: 2388
+[26Dec2024 21:27:50.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:owner_change Expected: 1527 Got: 2389
+[26Dec2024 21:27:50.333] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:dog_bed Expected: 1528 Got: 2390
+[26Dec2024 21:27:50.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:dog_bath Expected: 1529 Got: 2391
+[26Dec2024 21:27:50.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: doggytalents:food_bowl Expected: 1530 Got: 2392
+[26Dec2024 21:27:50.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass Expected: 1810 Got: 2393
+[26Dec2024 21:27:50.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_white Expected: 1811 Got: 2394
+[26Dec2024 21:27:50.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_orange Expected: 1812 Got: 2395
+[26Dec2024 21:27:50.334] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_magenta Expected: 1813 Got: 2396
+[26Dec2024 21:27:50.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_light_blue Expected: 1814 Got: 2397
+[26Dec2024 21:27:50.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_yellow Expected: 1815 Got: 2398
+[26Dec2024 21:27:50.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_lime Expected: 1816 Got: 2399
+[26Dec2024 21:27:50.335] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_pink Expected: 1817 Got: 2400
+[26Dec2024 21:27:50.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_gray Expected: 1818 Got: 2401
+[26Dec2024 21:27:50.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_light_gray Expected: 1819 Got: 2402
+[26Dec2024 21:27:50.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_cyan Expected: 1820 Got: 2403
+[26Dec2024 21:27:50.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_purple Expected: 1821 Got: 2404
+[26Dec2024 21:27:50.336] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_blue Expected: 1822 Got: 2405
+[26Dec2024 21:27:50.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_brown Expected: 1823 Got: 2406
+[26Dec2024 21:27:50.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_green Expected: 1824 Got: 2407
+[26Dec2024 21:27:50.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_red Expected: 1825 Got: 2408
+[26Dec2024 21:27:50.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_black Expected: 1826 Got: 2409
+[26Dec2024 21:27:50.337] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_pane Expected: 1827 Got: 2410
+[26Dec2024 21:27:50.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_white_pane Expected: 1828 Got: 2411
+[26Dec2024 21:27:50.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_orange_pane Expected: 1829 Got: 2412
+[26Dec2024 21:27:50.338] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_magenta_pane Expected: 1830 Got: 2413
+[26Dec2024 21:27:50.339] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_light_blue_pane Expected: 1831 Got: 2414
+[26Dec2024 21:27:50.339] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_yellow_pane Expected: 1832 Got: 2415
+[26Dec2024 21:27:50.339] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_lime_pane Expected: 1833 Got: 2416
+[26Dec2024 21:27:50.339] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_pink_pane Expected: 1834 Got: 2417
+[26Dec2024 21:27:50.340] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_gray_pane Expected: 1835 Got: 2418
+[26Dec2024 21:27:50.340] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_light_gray_pane Expected: 1836 Got: 2419
+[26Dec2024 21:27:50.340] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_cyan_pane Expected: 1837 Got: 2420
+[26Dec2024 21:27:50.340] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_purple_pane Expected: 1838 Got: 2421
+[26Dec2024 21:27:50.341] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_blue_pane Expected: 1839 Got: 2422
+[26Dec2024 21:27:50.341] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_brown_pane Expected: 1840 Got: 2423
+[26Dec2024 21:27:50.341] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_green_pane Expected: 1841 Got: 2424
+[26Dec2024 21:27:50.341] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_red_pane Expected: 1842 Got: 2425
+[26Dec2024 21:27:50.342] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:borderless_glass_black_pane Expected: 1843 Got: 2426
+[26Dec2024 21:27:50.342] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass Expected: 1844 Got: 2427
+[26Dec2024 21:27:50.342] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_white Expected: 1845 Got: 2428
+[26Dec2024 21:27:50.343] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_orange Expected: 1846 Got: 2429
+[26Dec2024 21:27:50.343] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_magenta Expected: 1847 Got: 2430
+[26Dec2024 21:27:50.343] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_light_blue Expected: 1848 Got: 2431
+[26Dec2024 21:27:50.343] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_yellow Expected: 1849 Got: 2432
+[26Dec2024 21:27:50.344] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_lime Expected: 1850 Got: 2433
+[26Dec2024 21:27:50.344] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_pink Expected: 1851 Got: 2434
+[26Dec2024 21:27:50.344] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_gray Expected: 1852 Got: 2435
+[26Dec2024 21:27:50.345] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_light_gray Expected: 1853 Got: 2436
+[26Dec2024 21:27:50.345] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_cyan Expected: 1854 Got: 2437
+[26Dec2024 21:27:50.345] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_purple Expected: 1855 Got: 2438
+[26Dec2024 21:27:50.345] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_blue Expected: 1856 Got: 2439
+[26Dec2024 21:27:50.346] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_brown Expected: 1857 Got: 2440
+[26Dec2024 21:27:50.346] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_green Expected: 1858 Got: 2441
+[26Dec2024 21:27:50.346] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_red Expected: 1859 Got: 2442
+[26Dec2024 21:27:50.347] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_black Expected: 1860 Got: 2443
+[26Dec2024 21:27:50.347] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_pane Expected: 1861 Got: 2444
+[26Dec2024 21:27:50.347] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_white_pane Expected: 1862 Got: 2445
+[26Dec2024 21:27:50.347] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_orange_pane Expected: 1863 Got: 2446
+[26Dec2024 21:27:50.348] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_magenta_pane Expected: 1864 Got: 2447
+[26Dec2024 21:27:50.348] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_light_blue_pane Expected: 1865 Got: 2448
+[26Dec2024 21:27:50.348] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_yellow_pane Expected: 1866 Got: 2449
+[26Dec2024 21:27:50.348] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_lime_pane Expected: 1867 Got: 2450
+[26Dec2024 21:27:50.349] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_pink_pane Expected: 1868 Got: 2451
+[26Dec2024 21:27:50.349] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_gray_pane Expected: 1869 Got: 2452
+[26Dec2024 21:27:50.349] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_light_gray_pane Expected: 1870 Got: 2453
+[26Dec2024 21:27:50.349] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_cyan_pane Expected: 1871 Got: 2454
+[26Dec2024 21:27:50.350] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_purple_pane Expected: 1872 Got: 2455
+[26Dec2024 21:27:50.350] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_blue_pane Expected: 1873 Got: 2456
+[26Dec2024 21:27:50.350] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_brown_pane Expected: 1874 Got: 2457
+[26Dec2024 21:27:50.350] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_green_pane Expected: 1875 Got: 2458
+[26Dec2024 21:27:50.351] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_red_pane Expected: 1876 Got: 2459
+[26Dec2024 21:27:50.351] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:clear_glass_black_pane Expected: 1877 Got: 2460
+[26Dec2024 21:27:50.351] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass Expected: 1878 Got: 2461
+[26Dec2024 21:27:50.352] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_white Expected: 1879 Got: 2462
+[26Dec2024 21:27:50.352] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_orange Expected: 1880 Got: 2463
+[26Dec2024 21:27:50.352] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_magenta Expected: 1881 Got: 2464
+[26Dec2024 21:27:50.352] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_light_blue Expected: 1882 Got: 2465
+[26Dec2024 21:27:50.353] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_yellow Expected: 1883 Got: 2466
+[26Dec2024 21:27:50.353] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_lime Expected: 1884 Got: 2467
+[26Dec2024 21:27:50.353] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_pink Expected: 1885 Got: 2468
+[26Dec2024 21:27:50.353] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_gray Expected: 1886 Got: 2469
+[26Dec2024 21:27:50.354] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_light_gray Expected: 1887 Got: 2470
+[26Dec2024 21:27:50.354] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_cyan Expected: 1888 Got: 2471
+[26Dec2024 21:27:50.354] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_purple Expected: 1889 Got: 2472
+[26Dec2024 21:27:50.354] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_blue Expected: 1890 Got: 2473
+[26Dec2024 21:27:50.355] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_brown Expected: 1891 Got: 2474
+[26Dec2024 21:27:50.355] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_green Expected: 1892 Got: 2475
+[26Dec2024 21:27:50.355] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_red Expected: 1893 Got: 2476
+[26Dec2024 21:27:50.355] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_black Expected: 1894 Got: 2477
+[26Dec2024 21:27:50.355] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_pane Expected: 1895 Got: 2478
+[26Dec2024 21:27:50.356] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_white_pane Expected: 1896 Got: 2479
+[26Dec2024 21:27:50.356] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_orange_pane Expected: 1897 Got: 2480
+[26Dec2024 21:27:50.356] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_magenta_pane Expected: 1898 Got: 2481
+[26Dec2024 21:27:50.357] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_light_blue_pane Expected: 1899 Got: 2482
+[26Dec2024 21:27:50.357] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_yellow_pane Expected: 1900 Got: 2483
+[26Dec2024 21:27:50.357] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_lime_pane Expected: 1901 Got: 2484
+[26Dec2024 21:27:50.357] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_pink_pane Expected: 1902 Got: 2485
+[26Dec2024 21:27:50.357] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_gray_pane Expected: 1903 Got: 2486
+[26Dec2024 21:27:50.358] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_light_gray_pane Expected: 1904 Got: 2487
+[26Dec2024 21:27:50.358] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_cyan_pane Expected: 1905 Got: 2488
+[26Dec2024 21:27:50.358] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_purple_pane Expected: 1906 Got: 2489
+[26Dec2024 21:27:50.358] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_blue_pane Expected: 1907 Got: 2490
+[26Dec2024 21:27:50.358] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_brown_pane Expected: 1908 Got: 2491
+[26Dec2024 21:27:50.359] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_green_pane Expected: 1909 Got: 2492
+[26Dec2024 21:27:50.359] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_red_pane Expected: 1910 Got: 2493
+[26Dec2024 21:27:50.359] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:scratched_glass_black_pane Expected: 1911 Got: 2494
+[26Dec2024 21:27:50.359] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass Expected: 1912 Got: 2495
+[26Dec2024 21:27:50.360] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_white Expected: 1913 Got: 2496
+[26Dec2024 21:27:50.360] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_orange Expected: 1914 Got: 2497
+[26Dec2024 21:27:50.360] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_magenta Expected: 1915 Got: 2498
+[26Dec2024 21:27:50.360] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_light_blue Expected: 1916 Got: 2499
+[26Dec2024 21:27:50.360] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_yellow Expected: 1917 Got: 2500
+[26Dec2024 21:27:50.361] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_lime Expected: 1918 Got: 2501
+[26Dec2024 21:27:50.361] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_pink Expected: 1919 Got: 2502
+[26Dec2024 21:27:50.361] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_gray Expected: 1920 Got: 2503
+[26Dec2024 21:27:50.361] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_light_gray Expected: 1921 Got: 2504
+[26Dec2024 21:27:50.361] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_cyan Expected: 1922 Got: 2505
+[26Dec2024 21:27:50.362] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_purple Expected: 1923 Got: 2506
+[26Dec2024 21:27:50.362] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_blue Expected: 1924 Got: 2507
+[26Dec2024 21:27:50.362] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_brown Expected: 1925 Got: 2508
+[26Dec2024 21:27:50.363] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_green Expected: 1926 Got: 2509
+[26Dec2024 21:27:50.363] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_red Expected: 1927 Got: 2510
+[26Dec2024 21:27:50.363] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: connectedglass:tinted_borderless_glass_black Expected: 1928 Got: 2511
+[26Dec2024 21:27:50.365] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: doggytalents:whistle_short Expected: 1328 Got: 1625
+[26Dec2024 21:27:50.365] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: doggytalents:whistle_long Expected: 1329 Got: 1626
+[26Dec2024 21:27:50.365] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: combatroll:roll Expected: 1581 Got: 1627
+[26Dec2024 21:27:50.365] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: combatroll:roll_cooldown_ready Expected: 1582 Got: 1628
+[26Dec2024 21:27:50.366] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:enchantment: Object did not get ID it asked for. Name: combatroll:longfooted Expected: 39 Got: 49
+[26Dec2024 21:27:50.366] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:enchantment: Object did not get ID it asked for. Name: combatroll:acrobat Expected: 40 Got: 50
+[26Dec2024 21:27:50.366] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:enchantment: Object did not get ID it asked for. Name: combatroll:multi_roll Expected: 41 Got: 51
+[26Dec2024 21:27:50.367] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: doggytalents:dog Expected: 120 Got: 332
+[26Dec2024 21:27:50.367] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: doggytalents:dog_beam Expected: 121 Got: 333
+[26Dec2024 21:27:50.992] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
+[26Dec2024 21:27:50.992] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/ahorasicuartointento/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
+[26Dec2024 21:27:52.899] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[26Dec2024 21:27:53.628] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[26Dec2024 21:27:54.265] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2254 advancements
+[26Dec2024 21:27:54.267] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[26Dec2024 21:27:54.268] [main/INFO] [Dungeon Crawl/]: Loading data...
+[26Dec2024 21:27:54.557] [main/INFO] [Dungeon Crawl/]: Done.
+[26Dec2024 21:27:55.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[26Dec2024 21:27:55.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[26Dec2024 21:27:55.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[26Dec2024 21:27:55.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[26Dec2024 21:27:55.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[26Dec2024 21:27:55.345] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[26Dec2024 21:27:55.430] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[26Dec2024 21:27:55.430] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[26Dec2024 21:27:55.431] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[26Dec2024 21:27:55.431] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[26Dec2024 21:27:55.452] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/doggytalents-server.toml is not correct. Correcting
+[26Dec2024 21:27:55.452] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dog Constants was corrected from null to its default, SimpleCommentedConfig:{}. 
+[26Dec2024 21:27:55.453] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dog Constants.disable_hunger was corrected from null to its default, false. 
+[26Dec2024 21:27:55.453] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dog Constants.enable_starting_items was corrected from null to its default, false. 
+[26Dec2024 21:27:55.453] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dog Constants.enable_gender was corrected from null to its default, true. 
+[26Dec2024 21:27:55.454] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dog Constants.enable_pup_get_parent_levels was corrected from null to its default, false. 
+[26Dec2024 21:27:55.454] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dog Constants.time_to_mature was corrected from null to its default, 48000. 
+[26Dec2024 21:27:55.454] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dog Constants.whine_when_hungry was corrected from null to its default, true. 
+[26Dec2024 21:27:55.454] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Dog Constants.eat_food_on_floor was corrected from null to its default, true. 
+[26Dec2024 21:27:55.531] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/doggytalents-talents.toml is not correct. Correcting
+[26Dec2024 21:27:55.532] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents was corrected from null to its default, SimpleCommentedConfig:{}. 
+[26Dec2024 21:27:55.532] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:bed_finder was corrected from null to its default, true. 
+[26Dec2024 21:27:55.532] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:black_pelt was corrected from null to its default, true. 
+[26Dec2024 21:27:55.533] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:creeper_sweeper was corrected from null to its default, true. 
+[26Dec2024 21:27:55.533] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:doggy_dash was corrected from null to its default, true. 
+[26Dec2024 21:27:55.533] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:fisher_dog was corrected from null to its default, true. 
+[26Dec2024 21:27:55.533] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:guard_dog was corrected from null to its default, true. 
+[26Dec2024 21:27:55.534] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:happy_eater was corrected from null to its default, true. 
+[26Dec2024 21:27:55.534] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:hell_hound was corrected from null to its default, true. 
+[26Dec2024 21:27:55.534] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:hunter_dog was corrected from null to its default, true. 
+[26Dec2024 21:27:55.534] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:pack_puppy was corrected from null to its default, true. 
+[26Dec2024 21:27:55.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:pest_fighter was corrected from null to its default, true. 
+[26Dec2024 21:27:55.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:pillow_paw was corrected from null to its default, true. 
+[26Dec2024 21:27:55.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:poison_fang was corrected from null to its default, true. 
+[26Dec2024 21:27:55.535] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:puppy_eyes was corrected from null to its default, true. 
+[26Dec2024 21:27:55.536] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:quick_healer was corrected from null to its default, true. 
+[26Dec2024 21:27:55.536] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:rescue_dog was corrected from null to its default, true. 
+[26Dec2024 21:27:55.536] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:roaring_gale was corrected from null to its default, true. 
+[26Dec2024 21:27:55.537] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:shepherd_dog was corrected from null to its default, true. 
+[26Dec2024 21:27:55.537] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:swimmer_dog was corrected from null to its default, true. 
+[26Dec2024 21:27:55.537] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:wolf_mount was corrected from null to its default, true. 
+[26Dec2024 21:27:55.537] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Talents.doggytalents:doggy_torch was corrected from null to its default, true. 
+[26Dec2024 21:27:55.662] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[26Dec2024 21:27:55.662] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[26Dec2024 21:27:55.663] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[26Dec2024 21:27:55.663] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[26Dec2024 21:27:55.663] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[26Dec2024 21:27:55.664] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[26Dec2024 21:27:55.664] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[26Dec2024 21:27:55.664] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[26Dec2024 21:27:55.665] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[26Dec2024 21:27:55.665] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[26Dec2024 21:27:55.695] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[26Dec2024 21:27:56.240] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[26Dec2024 21:27:56.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[26Dec2024 21:27:56.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[26Dec2024 21:28:01.189] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.191] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.192] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.192] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.193] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.194] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.195] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.196] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.196] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.197] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:01.492] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[26Dec2024 21:28:02.000] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[26Dec2024 21:28:02.494] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[26Dec2024 21:28:02.993] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[26Dec2024 21:28:03.052] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6561 ms
+[26Dec2024 21:28:03.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.612s)! For help, type "help"
+[26Dec2024 21:28:03.084] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Dec2024 21:28:03.167] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 19724 bytes (in 2 string chunks with the size of 10000)
+[26Dec2024 21:28:03.168] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[26Dec2024 21:38:14.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Dec2024 21:38:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Dec2024 21:38:14.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Dec2024 21:38:15.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Dec2024 21:38:15.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Dec2024 21:38:15.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Dec2024 21:38:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Dec2024 21:38:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Dec2024 21:38:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Dec2024 21:38:15.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
